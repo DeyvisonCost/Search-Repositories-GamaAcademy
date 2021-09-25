@@ -6,7 +6,7 @@
   <img src="src/pages/Home/Animação.gif">
 </p>
 
-<h2> To Start! </h2>
+<h2> Start! </h2>
 
 - Para startar o repositório é preciso abrir o terminal na raiz ( gamagit ) 
 - Excutar o comando: yarn start
