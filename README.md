@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Search Repositories 🔎//🔍
+  Search Repositories 🔎
 </h1>
 
 <p align="center">
@@ -19,3 +19,6 @@
 - Axios
 - JS
 - Styled-components
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Deyvison%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvisonccosta/)](https://www.linkedin.com/in/deyvisonccosta/)
