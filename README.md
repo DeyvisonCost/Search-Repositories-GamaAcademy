@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Search Repositories
+  Search Repositories 🔎//🔍
 </h1>
 
 <p align="center">
